@@ -1,0 +1,1181 @@
+[
+  {
+    "id": 1,
+    "slug": "hoodie",
+    "name": "Худи свободного кроя",
+    "category": "clothing",
+    "subcategory": "hoodies",
+    "gender": "unisex",
+    "price": 7900,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Плотный хлопок, мягкая изнанка и объёмный капюшон. Для прохладного утра и долгих прогулок.",
+    "composition": "100% хлопок, плотность 420 г/м²",
+    "care": "Деликатная стирка при 30 °C. Не отбеливать. Сушить естественным способом.",
+    "fit": "Свободная посадка, спущенная линия плеча",
+    "colors": [
+      "grey",
+      "black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "grey:XS": 3,
+      "grey:S": 4,
+      "grey:M": 5,
+      "grey:L": 6,
+      "grey:XL": 7,
+      "grey:XXL": 2,
+      "black:XS": 4,
+      "black:S": 5,
+      "black:M": 6,
+      "black:L": 7,
+      "black:XL": 2,
+      "black:XXL": 0
+    },
+    "stock": 51,
+    "rating": 4.6,
+    "reviewsCount": 25,
+    "isNew": true,
+    "isBestseller": true,
+    "collection": "Осень 2026",
+    "images": [
+      "/assets/hoodie.webp",
+      "/assets/hoodie.webp"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "tee",
+    "name": "Футболка плотный хлопок",
+    "category": "clothing",
+    "subcategory": "tees",
+    "gender": "unisex",
+    "price": 3900,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Правильная база начинается с ткани. Плотный хлопок держит форму, свободный крой оставляет пространство для движения.",
+    "composition": "100% хлопок, плотность 240 г/м²",
+    "care": "Деликатная стирка при 30 °C. Не отбеливать. Сушить естественным способом.",
+    "fit": "Прямой свободный силуэт",
+    "colors": [
+      "white",
+      "black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "white:XS": 4,
+      "white:S": 5,
+      "white:M": 6,
+      "white:L": 7,
+      "white:XL": 2,
+      "white:XXL": 0,
+      "black:XS": 5,
+      "black:S": 6,
+      "black:M": 7,
+      "black:L": 2,
+      "black:XL": 0,
+      "black:XXL": 4
+    },
+    "stock": 48,
+    "rating": 4.7,
+    "reviewsCount": 32,
+    "isNew": true,
+    "isBestseller": true,
+    "collection": "Осень 2026",
+    "images": [
+      "/assets/tee.webp",
+      "/assets/tee.webp"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "jacket",
+    "name": "Куртка городская",
+    "category": "clothing",
+    "subcategory": "jackets",
+    "gender": "men",
+    "price": 14900,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Чистый силуэт и практичные детали. Воротник-стойка, удобные карманы и спокойная фактура для переменчивого города.",
+    "composition": "100% полиамид, подкладка: 100% полиэстер",
+    "care": "Деликатная стирка при 30 °C. Не отбеливать. Сушить естественным способом.",
+    "fit": "Укороченная свободная посадка",
+    "colors": [
+      "black",
+      "grey"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "black:XS": 5,
+      "black:S": 6,
+      "black:M": 7,
+      "black:L": 2,
+      "black:XL": 0,
+      "black:XXL": 4,
+      "grey:XS": 6,
+      "grey:S": 7,
+      "grey:M": 2,
+      "grey:L": 0,
+      "grey:XL": 4,
+      "grey:XXL": 5
+    },
+    "stock": 48,
+    "rating": 4.8,
+    "reviewsCount": 39,
+    "isNew": true,
+    "isBestseller": false,
+    "collection": "Осень 2026",
+    "images": [
+      "/assets/jacket.webp",
+      "/assets/jacket.webp"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "pants",
+    "name": "Брюки карго",
+    "category": "clothing",
+    "subcategory": "pants",
+    "gender": "unisex",
+    "price": 8900,
+    "oldPrice": 11100,
+    "discount": 20,
+    "description": "Свобода в движении и всё необходимое под рукой. Объёмные карманы и продуманные швы создают выразительный силуэт.",
+    "composition": "98% хлопок, 2% эластан",
+    "care": "Деликатная стирка при 30 °C. Не отбеливать. Сушить естественным способом.",
+    "fit": "Широкий крой, средняя посадка",
+    "colors": [
+      "grey",
+      "black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "grey:XS": 6,
+      "grey:S": 7,
+      "grey:M": 2,
+      "grey:L": 0,
+      "grey:XL": 4,
+      "grey:XXL": 5,
+      "black:XS": 7,
+      "black:S": 2,
+      "black:M": 0,
+      "black:L": 4,
+      "black:XL": 5,
+      "black:XXL": 6
+    },
+    "stock": 48,
+    "rating": 4.9,
+    "reviewsCount": 46,
+    "isNew": true,
+    "isBestseller": false,
+    "collection": "Осень 2026",
+    "images": [
+      "/assets/pants.webp",
+      "/assets/pants.webp"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "coat",
+    "name": "Пальто свободного кроя",
+    "category": "clothing",
+    "subcategory": "coats",
+    "gender": "women",
+    "price": 22900,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Тёплая шерсть, мягкая линия плеча и спокойный оттенок. Пальто, которое объединяет весь гардероб.",
+    "composition": "70% шерсть, 30% полиэстер",
+    "care": "Бережная профессиональная чистка. Храните сложенным или на подходящих плечиках.",
+    "fit": "Объёмный прямой силуэт, длина ниже колена",
+    "colors": [
+      "brown",
+      "grey"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "brown:XS": 7,
+      "brown:S": 2,
+      "brown:M": 0,
+      "brown:L": 4,
+      "brown:XL": 5,
+      "brown:XXL": 6,
+      "grey:XS": 2,
+      "grey:S": 0,
+      "grey:M": 4,
+      "grey:L": 5,
+      "grey:XL": 6,
+      "grey:XXL": 7
+    },
+    "stock": 48,
+    "rating": 4.5,
+    "reviewsCount": 53,
+    "isNew": true,
+    "isBestseller": true,
+    "collection": "Осень 2026",
+    "images": [
+      "/assets/coat.webp",
+      "/assets/coat.webp"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "sweater",
+    "name": "Джемпер фактурный",
+    "category": "clothing",
+    "subcategory": "knitwear",
+    "gender": "unisex",
+    "price": 9900,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Фактура, к которой хочется прикоснуться. Объёмная вязка и мягкая шерсть для неторопливых выходных.",
+    "composition": "60% шерсть, 40% акрил",
+    "care": "Бережная профессиональная чистка. Храните сложенным или на подходящих плечиках.",
+    "fit": "Свободная посадка, круглый вырез",
+    "colors": [
+      "grey",
+      "white"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "grey:XS": 2,
+      "grey:S": 0,
+      "grey:M": 4,
+      "grey:L": 5,
+      "grey:XL": 6,
+      "grey:XXL": 7,
+      "white:XS": 0,
+      "white:S": 4,
+      "white:M": 5,
+      "white:L": 6,
+      "white:XL": 7,
+      "white:XXL": 2
+    },
+    "stock": 48,
+    "rating": 4.6,
+    "reviewsCount": 60,
+    "isNew": true,
+    "isBestseller": false,
+    "collection": "Осень 2026",
+    "images": [
+      "/assets/sweater.webp",
+      "/assets/sweater.webp"
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "bag",
+    "name": "Сумка-шопер",
+    "category": "accessories",
+    "subcategory": "accessories",
+    "gender": "unisex",
+    "price": 4900,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Плотный канвас, широкие ручки и достаточно места для ежедневных планов. Ноутбук, книга, новый маршрут.",
+    "composition": "100% хлопковый канвас",
+    "care": "Бережная ручная чистка. Не сушить на батарее.",
+    "fit": "Единый размер, 38 × 35 × 12 см",
+    "colors": [
+      "black",
+      "brown"
+    ],
+    "sizes": [
+      "Единый"
+    ],
+    "inventory": {
+      "black:Единый": 0,
+      "brown:Единый": 4
+    },
+    "stock": 4,
+    "rating": 4.7,
+    "reviewsCount": 67,
+    "isNew": true,
+    "isBestseller": false,
+    "collection": "Осень 2026",
+    "images": [
+      "/assets/bag.webp",
+      "/assets/bag.webp"
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "shoes",
+    "name": "Кеды минималистичные",
+    "category": "shoes",
+    "subcategory": "shoes",
+    "gender": "unisex",
+    "price": 11900,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Чистые линии, тактильная кожа и устойчивый силуэт. Пара, которая сочетается с любым маршрутом.",
+    "composition": "Верх: натуральная кожа, подошва: резина",
+    "care": "Очищайте мягкой щёткой. Сушите при комнатной температуре.",
+    "fit": "Стандартная полнота",
+    "colors": [
+      "white",
+      "grey"
+    ],
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "inventory": {
+      "white:39": 4,
+      "white:40": 5,
+      "white:41": 6,
+      "white:42": 7,
+      "white:43": 2,
+      "white:44": 3,
+      "grey:39": 5,
+      "grey:40": 6,
+      "grey:41": 7,
+      "grey:42": 2,
+      "grey:43": 3,
+      "grey:44": 0
+    },
+    "stock": 50,
+    "rating": 4.8,
+    "reviewsCount": 74,
+    "isNew": true,
+    "isBestseller": true,
+    "collection": "Осень 2026",
+    "images": [
+      "/assets/shoes.webp",
+      "/assets/shoes.webp"
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "zip-hoodie",
+    "name": "Худи на молнии",
+    "category": "clothing",
+    "subcategory": "hoodies",
+    "gender": "unisex",
+    "price": 8500,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Мягкая фактура, объёмный капюшон и молния по всей длине. Удобный дополнительный слой на каждый день.",
+    "composition": "100% хлопок, плотность 400 г/м²",
+    "care": "Деликатная стирка при 30 °C. Не отбеливать. Сушить естественным способом.",
+    "fit": "Свободная посадка",
+    "colors": [
+      "grey",
+      "black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "grey:XS": 5,
+      "grey:S": 6,
+      "grey:M": 7,
+      "grey:L": 2,
+      "grey:XL": 3,
+      "grey:XXL": 0,
+      "black:XS": 6,
+      "black:S": 7,
+      "black:M": 2,
+      "black:L": 3,
+      "black:XL": 0,
+      "black:XXL": 5
+    },
+    "stock": 46,
+    "rating": 4.9,
+    "reviewsCount": 81,
+    "isNew": false,
+    "isBestseller": false,
+    "collection": "Базовая линия",
+    "images": [
+      "/assets/zip-hoodie.webp",
+      "/assets/zip-hoodie.webp"
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "tee-black",
+    "name": "Футболка чёрная база",
+    "category": "clothing",
+    "subcategory": "tees",
+    "gender": "unisex",
+    "price": 3500,
+    "oldPrice": 4400,
+    "discount": 20,
+    "description": "Глубокий чёрный, чистая линия плеча и плотная ткань. Простая вещь с вниманием к каждой детали.",
+    "composition": "100% хлопок, плотность 220 г/м²",
+    "care": "Деликатная стирка при 30 °C. Не отбеливать. Сушить естественным способом.",
+    "fit": "Свободный прямой крой",
+    "colors": [
+      "black",
+      "grey"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "black:XS": 6,
+      "black:S": 7,
+      "black:M": 2,
+      "black:L": 3,
+      "black:XL": 0,
+      "black:XXL": 5,
+      "grey:XS": 7,
+      "grey:S": 2,
+      "grey:M": 3,
+      "grey:L": 0,
+      "grey:XL": 5,
+      "grey:XXL": 6
+    },
+    "stock": 46,
+    "rating": 4.5,
+    "reviewsCount": 88,
+    "isNew": false,
+    "isBestseller": true,
+    "collection": "Базовая линия",
+    "images": [
+      "/assets/tee-black.webp",
+      "/assets/tee-black.webp"
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "bomber",
+    "name": "Бомбер хаки",
+    "category": "clothing",
+    "subcategory": "jackets",
+    "gender": "men",
+    "price": 13900,
+    "oldPrice": 17400,
+    "discount": 20,
+    "description": "Сдержанный хаки, матовая ткань и комфортный объём. Классический бомбер в новом городском прочтении.",
+    "composition": "100% нейлон, подкладка: 100% полиэстер",
+    "care": "Деликатная стирка при 30 °C. Не отбеливать. Сушить естественным способом.",
+    "fit": "Объёмный крой",
+    "colors": [
+      "green",
+      "black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "green:XS": 7,
+      "green:S": 2,
+      "green:M": 3,
+      "green:L": 0,
+      "green:XL": 5,
+      "green:XXL": 6,
+      "black:XS": 2,
+      "black:S": 3,
+      "black:M": 0,
+      "black:L": 5,
+      "black:XL": 6,
+      "black:XXL": 7
+    },
+    "stock": 46,
+    "rating": 4.6,
+    "reviewsCount": 95,
+    "isNew": false,
+    "isBestseller": false,
+    "collection": "Базовая линия",
+    "images": [
+      "/assets/bomber.webp",
+      "/assets/bomber.webp"
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "trousers",
+    "name": "Брюки со складками",
+    "category": "clothing",
+    "subcategory": "pants",
+    "gender": "unisex",
+    "price": 9500,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Чёткие складки, расслабленная посадка и мягкая ткань. Равновесие между собранностью и свободой.",
+    "composition": "65% полиэстер, 33% вискоза, 2% эластан",
+    "care": "Деликатная стирка при 30 °C. Не отбеливать. Сушить естественным способом.",
+    "fit": "Широкие прямые брючины",
+    "colors": [
+      "black",
+      "grey"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "black:XS": 2,
+      "black:S": 3,
+      "black:M": 0,
+      "black:L": 5,
+      "black:XL": 6,
+      "black:XXL": 7,
+      "grey:XS": 3,
+      "grey:S": 0,
+      "grey:M": 5,
+      "grey:L": 6,
+      "grey:XL": 7,
+      "grey:XXL": 2
+    },
+    "stock": 46,
+    "rating": 4.7,
+    "reviewsCount": 102,
+    "isNew": false,
+    "isBestseller": true,
+    "collection": "Базовая линия",
+    "images": [
+      "/assets/trousers.webp",
+      "/assets/trousers.webp"
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "coat-grey",
+    "name": "Пальто двубортное",
+    "category": "clothing",
+    "subcategory": "coats",
+    "gender": "women",
+    "price": 24900,
+    "oldPrice": 31100,
+    "discount": 20,
+    "description": "Глубокий графит и выразительные лацканы. Тёплый слой для осени, который остаётся актуальным вне сезона.",
+    "composition": "80% шерсть, 20% полиамид",
+    "care": "Бережная профессиональная чистка. Храните сложенным или на подходящих плечиках.",
+    "fit": "Объёмный силуэт, длина ниже колена",
+    "colors": [
+      "grey",
+      "black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "grey:XS": 3,
+      "grey:S": 0,
+      "grey:M": 5,
+      "grey:L": 6,
+      "grey:XL": 7,
+      "grey:XXL": 2,
+      "black:XS": 0,
+      "black:S": 5,
+      "black:M": 6,
+      "black:L": 7,
+      "black:XL": 2,
+      "black:XXL": 3
+    },
+    "stock": 46,
+    "rating": 4.8,
+    "reviewsCount": 109,
+    "isNew": false,
+    "isBestseller": false,
+    "collection": "Базовая линия",
+    "images": [
+      "/assets/coat-grey.webp",
+      "/assets/coat-grey.webp"
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "sweater-milk",
+    "name": "Джемпер объёмная вязка",
+    "category": "clothing",
+    "subcategory": "knitwear",
+    "gender": "women",
+    "price": 10900,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Молочная пряжа и объёмный узор. Тёплая фактура добавляет характер самым простым сочетаниям.",
+    "composition": "70% шерсть, 30% акрил",
+    "care": "Бережная профессиональная чистка. Храните сложенным или на подходящих плечиках.",
+    "fit": "Свободная посадка",
+    "colors": [
+      "white",
+      "brown"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "white:XS": 0,
+      "white:S": 5,
+      "white:M": 6,
+      "white:L": 7,
+      "white:XL": 2,
+      "white:XXL": 3,
+      "brown:XS": 5,
+      "brown:S": 6,
+      "brown:M": 7,
+      "brown:L": 2,
+      "brown:XL": 3,
+      "brown:XXL": 4
+    },
+    "stock": 50,
+    "rating": 4.9,
+    "reviewsCount": 116,
+    "isNew": false,
+    "isBestseller": false,
+    "collection": "Базовая линия",
+    "images": [
+      "/assets/sweater-milk.webp",
+      "/assets/sweater-milk.webp"
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "crossbody",
+    "name": "Сумка через плечо",
+    "category": "accessories",
+    "subcategory": "accessories",
+    "gender": "unisex",
+    "price": 5900,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Компактный формат и регулируемый ремень. Всё нужное рядом, а руки свободны для города.",
+    "composition": "100% нейлон",
+    "care": "Бережная ручная чистка. Не сушить на батарее.",
+    "fit": "Единый размер, 24 × 18 × 8 см",
+    "colors": [
+      "black",
+      "grey"
+    ],
+    "sizes": [
+      "Единый"
+    ],
+    "inventory": {
+      "black:Единый": 5,
+      "grey:Единый": 6
+    },
+    "stock": 11,
+    "rating": 4.5,
+    "reviewsCount": 123,
+    "isNew": false,
+    "isBestseller": false,
+    "collection": "Базовая линия",
+    "images": [
+      "/assets/crossbody.webp",
+      "/assets/crossbody.webp"
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "shoes-black",
+    "name": "Кеды монохром",
+    "category": "shoes",
+    "subcategory": "shoes",
+    "gender": "unisex",
+    "price": 12900,
+    "oldPrice": 16100,
+    "discount": 20,
+    "description": "Полностью чёрный силуэт и спокойная матовая кожа. Минималистичная пара для длинных городских дней.",
+    "composition": "Верх: натуральная кожа, подошва: резина",
+    "care": "Очищайте мягкой щёткой. Сушите при комнатной температуре.",
+    "fit": "Стандартная полнота",
+    "colors": [
+      "black",
+      "grey"
+    ],
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "inventory": {
+      "black:39": 6,
+      "black:40": 7,
+      "black:41": 2,
+      "black:42": 3,
+      "black:43": 4,
+      "black:44": 0,
+      "grey:39": 7,
+      "grey:40": 2,
+      "grey:41": 3,
+      "grey:42": 4,
+      "grey:43": 0,
+      "grey:44": 6
+    },
+    "stock": 44,
+    "rating": 4.6,
+    "reviewsCount": 130,
+    "isNew": false,
+    "isBestseller": false,
+    "collection": "Базовая линия",
+    "images": [
+      "/assets/shoes-black.webp",
+      "/assets/shoes-black.webp"
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "hoodie-milk",
+    "name": "Худи молочный",
+    "category": "clothing",
+    "subcategory": "hoodies",
+    "gender": "unisex",
+    "price": 7900,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Мягкий молочный оттенок и плотный футер. Комфортная вещь, которая приносит свет в осенний гардероб.",
+    "composition": "100% хлопок, плотность 420 г/м²",
+    "care": "Деликатная стирка при 30 °C. Не отбеливать. Сушить естественным способом.",
+    "fit": "Оверсайз, спущенное плечо",
+    "colors": [
+      "white",
+      "brown"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "white:XS": 7,
+      "white:S": 2,
+      "white:M": 3,
+      "white:L": 4,
+      "white:XL": 0,
+      "white:XXL": 6,
+      "brown:XS": 2,
+      "brown:S": 3,
+      "brown:M": 4,
+      "brown:L": 0,
+      "brown:XL": 6,
+      "brown:XXL": 7
+    },
+    "stock": 44,
+    "rating": 4.7,
+    "reviewsCount": 137,
+    "isNew": true,
+    "isBestseller": false,
+    "collection": "Городская серия",
+    "images": [
+      "/assets/hoodie-milk.webp",
+      "/assets/hoodie-milk.webp"
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "longsleeve",
+    "name": "Лонгслив синий",
+    "category": "clothing",
+    "subcategory": "tees",
+    "gender": "unisex",
+    "price": 4900,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Приглушённый синий, длинный рукав и правильный объём. Основа многослойных сочетаний.",
+    "composition": "100% хлопок, плотность 240 г/м²",
+    "care": "Деликатная стирка при 30 °C. Не отбеливать. Сушить естественным способом.",
+    "fit": "Свободный прямой крой",
+    "colors": [
+      "blue",
+      "grey"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "blue:XS": 2,
+      "blue:S": 3,
+      "blue:M": 4,
+      "blue:L": 0,
+      "blue:XL": 6,
+      "blue:XXL": 7,
+      "grey:XS": 3,
+      "grey:S": 4,
+      "grey:M": 0,
+      "grey:L": 6,
+      "grey:XL": 7,
+      "grey:XXL": 2
+    },
+    "stock": 44,
+    "rating": 4.8,
+    "reviewsCount": 144,
+    "isNew": true,
+    "isBestseller": false,
+    "collection": "Городская серия",
+    "images": [
+      "/assets/longsleeve.webp",
+      "/assets/longsleeve.webp"
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "jacket-beige",
+    "name": "Куртка с карманами",
+    "category": "clothing",
+    "subcategory": "jackets",
+    "gender": "women",
+    "price": 15900,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Четыре кармана, воротник-стойка и оттенок тёплого камня. Практичная одежда с архитектурным характером.",
+    "composition": "72% хлопок, 28% нейлон",
+    "care": "Деликатная стирка при 30 °C. Не отбеливать. Сушить естественным способом.",
+    "fit": "Свободный удлинённый крой",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "brown:XS": 3,
+      "brown:S": 4,
+      "brown:M": 0,
+      "brown:L": 6,
+      "brown:XL": 7,
+      "brown:XXL": 2,
+      "black:XS": 4,
+      "black:S": 0,
+      "black:M": 6,
+      "black:L": 7,
+      "black:XL": 2,
+      "black:XXL": 3
+    },
+    "stock": 44,
+    "rating": 4.9,
+    "reviewsCount": 151,
+    "isNew": true,
+    "isBestseller": false,
+    "collection": "Городская серия",
+    "images": [
+      "/assets/jacket-beige.webp",
+      "/assets/jacket-beige.webp"
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "pants-olive",
+    "name": "Брюки карго хаки",
+    "category": "clothing",
+    "subcategory": "pants",
+    "gender": "men",
+    "price": 8500,
+    "oldPrice": 10600,
+    "discount": 20,
+    "description": "Функциональные карманы и прочная ткань рипстоп. Удобство, которое не требует компромиссов.",
+    "composition": "100% хлопок рипстоп",
+    "care": "Деликатная стирка при 30 °C. Не отбеливать. Сушить естественным способом.",
+    "fit": "Прямой расслабленный крой",
+    "colors": [
+      "green",
+      "black"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "green:XS": 4,
+      "green:S": 0,
+      "green:M": 6,
+      "green:L": 7,
+      "green:XL": 2,
+      "green:XXL": 3,
+      "black:XS": 0,
+      "black:S": 6,
+      "black:M": 7,
+      "black:L": 2,
+      "black:XL": 3,
+      "black:XXL": 4
+    },
+    "stock": 44,
+    "rating": 4.5,
+    "reviewsCount": 158,
+    "isNew": false,
+    "isBestseller": false,
+    "collection": "Городская серия",
+    "images": [
+      "/assets/pants-olive.webp",
+      "/assets/pants-olive.webp"
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "vest",
+    "name": "Жилет утеплённый",
+    "category": "clothing",
+    "subcategory": "jackets",
+    "gender": "unisex",
+    "price": 11900,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Лёгкий тёплый слой без лишних деталей. Носите поверх худи или под пальто — по погоде и настроению.",
+    "composition": "100% полиэстер, утеплитель: переработанный полиэстер",
+    "care": "Деликатная стирка при 30 °C. Не отбеливать. Сушить естественным способом.",
+    "fit": "Свободный объём",
+    "colors": [
+      "black",
+      "grey"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "black:XS": 0,
+      "black:S": 6,
+      "black:M": 7,
+      "black:L": 2,
+      "black:XL": 3,
+      "black:XXL": 4,
+      "grey:XS": 6,
+      "grey:S": 7,
+      "grey:M": 2,
+      "grey:L": 3,
+      "grey:XL": 4,
+      "grey:XXL": 5
+    },
+    "stock": 49,
+    "rating": 4.6,
+    "reviewsCount": 165,
+    "isNew": true,
+    "isBestseller": false,
+    "collection": "Городская серия",
+    "images": [
+      "/assets/vest.webp",
+      "/assets/vest.webp"
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "cardigan",
+    "name": "Кардиган шерстяной",
+    "category": "clothing",
+    "subcategory": "knitwear",
+    "gender": "women",
+    "price": 11900,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Глубокий шоколадный оттенок, крупная вязка и лаконичные пуговицы. Вещь для спокойных моментов.",
+    "composition": "65% шерсть, 35% акрил",
+    "care": "Бережная профессиональная чистка. Храните сложенным или на подходящих плечиках.",
+    "fit": "Объёмная посадка, V-образный вырез",
+    "colors": [
+      "brown",
+      "grey"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "inventory": {
+      "brown:XS": 6,
+      "brown:S": 7,
+      "brown:M": 2,
+      "brown:L": 3,
+      "brown:XL": 4,
+      "brown:XXL": 5,
+      "grey:XS": 7,
+      "grey:S": 2,
+      "grey:M": 3,
+      "grey:L": 4,
+      "grey:XL": 5,
+      "grey:XXL": 0
+    },
+    "stock": 48,
+    "rating": 4.7,
+    "reviewsCount": 172,
+    "isNew": false,
+    "isBestseller": false,
+    "collection": "Городская серия",
+    "images": [
+      "/assets/cardigan.webp",
+      "/assets/cardigan.webp"
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "cap",
+    "name": "Кепка хлопковая",
+    "category": "accessories",
+    "subcategory": "accessories",
+    "gender": "unisex",
+    "price": 2900,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Мягкий выстиранный хлопок и чистая форма. Небольшая деталь, которая завершает образ.",
+    "composition": "100% хлопок",
+    "care": "Бережная ручная чистка. Не сушить на батарее.",
+    "fit": "Единый размер, регулируемый обхват 54–60 см",
+    "colors": [
+      "black",
+      "blue"
+    ],
+    "sizes": [
+      "Единый"
+    ],
+    "inventory": {
+      "black:Единый": 7,
+      "blue:Единый": 2
+    },
+    "stock": 9,
+    "rating": 4.8,
+    "reviewsCount": 179,
+    "isNew": false,
+    "isBestseller": false,
+    "collection": "Городская серия",
+    "images": [
+      "/assets/cap.webp",
+      "/assets/cap.webp"
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "shoes-brown",
+    "name": "Кеды замшевые",
+    "category": "shoes",
+    "subcategory": "shoes",
+    "gender": "unisex",
+    "price": 13900,
+    "oldPrice": null,
+    "discount": 0,
+    "description": "Тёплый оттенок песка и мягкая замша. Знакомый минималистичный силуэт в новой фактуре.",
+    "composition": "Верх: натуральная замша, подошва: резина",
+    "care": "Очищайте мягкой щёткой. Сушите при комнатной температуре.",
+    "fit": "Стандартная полнота",
+    "colors": [
+      "brown",
+      "white"
+    ],
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "inventory": {
+      "brown:39": 0,
+      "brown:40": 0,
+      "brown:41": 0,
+      "brown:42": 0,
+      "brown:43": 0,
+      "brown:44": 0,
+      "white:39": 0,
+      "white:40": 0,
+      "white:41": 0,
+      "white:42": 0,
+      "white:43": 0,
+      "white:44": 0
+    },
+    "stock": 0,
+    "rating": 4.9,
+    "reviewsCount": 186,
+    "isNew": false,
+    "isBestseller": false,
+    "collection": "Городская серия",
+    "images": [
+      "/assets/shoes-brown.webp",
+      "/assets/shoes-brown.webp"
+    ]
+  }
+]

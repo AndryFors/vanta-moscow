@@ -1,0 +1,9 @@
+{
+  "name": "vanta-moscow",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "VANTA — московский бренд одежды. Портфолио frontend-разработчика.",
+  "scripts": { "dev": "node server.mjs", "build": "node scripts/build.mjs", "test": "node --test tests/*.test.mjs", "preview": "node server.mjs --dist" },
+  "engines": { "node": ">=20" }
+}
